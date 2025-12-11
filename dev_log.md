@@ -13,3 +13,6 @@
 
 ## 2025-11-09T18:07:05
 - removed dead code
+
+## 2025-12-11T16:13:52
+- improved readability
